@@ -1,0 +1,5 @@
+Czy Polska leży w Europie? TAK
+Czy String to Klasa? TAK
+Czy int to Klasa? NIE
+Czy int to Klasa? nie
+Czy int to Klasa? YES
