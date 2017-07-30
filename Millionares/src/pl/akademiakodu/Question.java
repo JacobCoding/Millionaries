@@ -63,10 +63,6 @@ public class Question {
         }
 
 
-
-
-
-
         List<Question> questions = new ArrayList<>();
         questions.add(new Question("Czy Kanada leży w Europie?",false));
         questions.add(new Question("Czy Java to język programowania?",true));
